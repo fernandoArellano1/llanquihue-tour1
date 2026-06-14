@@ -1,0 +1,5 @@
+Ruta Gastronomica;Llanquihue;15000
+Paseo Lacustre;Lago Llanquihue;25000
+Excursion Cultural;Frutillar;18000
+Tour Personalizado;Volcan Osorno;45000
+Sendero Werner;Llanquihue;12000
